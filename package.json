@@ -1,5 +1,5 @@
 {
-    "name": "mero-kaam-server",
+    "name": "Todo-server",
     "version": "1.0.0",
     "type": "module",
     "description": "a todo server for prosphore assessment",

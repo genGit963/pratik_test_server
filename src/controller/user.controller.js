@@ -97,7 +97,7 @@ const forgotPassword = asyncHandler(async (req, res) => {
 
         await sendEmail({
             email: validUser.Email,
-            subject: "Mero-Kaam Todo: Password Recovery Portal",
+            subject: "TODO: Password Recovery Portal",
             mailContent: message,
         });
 
